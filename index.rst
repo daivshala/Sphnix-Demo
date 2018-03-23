@@ -1,11 +1,10 @@
-.. readit documentation master file, created by
-   sphinx-quickstart on Fri Feb 16 06:34:12 2018.
+.. sphinx documentation master file, created by
+   sphinx-quickstart on Fri Mar 23 07:58:36 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to readit's documentation!
+Welcome to sphinx's documentation!
 ==================================
-
 
 .. class::
 
