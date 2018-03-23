@@ -6,8 +6,6 @@
 Welcome to sphinx-demo's documentation!
 =======================================
 .. image:: https://asciinema.org/a/XHY1hKrgOry69OeWG04iucT1k.png
-   :height: 100px
-   :width: 200 px
    :alt: asciicast
    :target: https://asciinema.org/a/XHY1hKrgOry69OeWG04iucT1k?t=1
 
